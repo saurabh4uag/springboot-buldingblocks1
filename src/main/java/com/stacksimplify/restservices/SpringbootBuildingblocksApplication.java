@@ -1,13 +1,13 @@
-package com.stackssimplify.restservices;
+package com.stacksimplify.restservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//
 @SpringBootApplication
-public class SpringbootBuldingblocks1Application {
+public class SpringbootBuildingblocksApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootBuldingblocks1Application.class, args);
+		SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
 	}
 
 }
